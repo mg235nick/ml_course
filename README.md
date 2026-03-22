@@ -1,1 +1,3 @@
-# ml_course
+# Machine Learning
+
+Machine Learnign course at the Jagiellonian University.
