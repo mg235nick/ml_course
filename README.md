@@ -2,4 +2,4 @@
 
 Machine Learnign course at the Jagiellonian University.
 
-1. Submission: Clustering assignment due on 23.03, 23:59 --> Notebook location: machine-learning-course/clustering/047Clustering_Exercises.ipynb
+1. Submission: Clustering assignment due on 23.03, 23:59 --> Notebook location: ml_course/clustering/047Clustering_Exercises.ipynb
