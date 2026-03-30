@@ -3,3 +3,4 @@
 Machine Learnign course at the Jagiellonian University.
 
 1. Submission: Clustering assignment due on 23.03, 23:59 --> `ml_course/clustering/047Clustering_Exercises.ipynb`
+2. Submission: Linear regression assignment due on 30.03, 23:59 --> `ml_course/linear/026_Exercises.ipynb`
